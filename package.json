@@ -1,0 +1,31 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material/AddIcCall": "*",
+    "@mui/icons-material/DomainSharp": "*",
+    "@mui/icons-material/LocalShippingTwoTone": "*",
+    "@mui/icons-material/Search": "*",
+    "@mui/material": "^5.13.1",
+    "@mui/material/AppBar": "*",
+    "@mui/material/Box": "*",
+    "@mui/material/IconButton": "*",
+    "@mui/material/TextField": "*",
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
